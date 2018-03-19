@@ -1,4 +1,12 @@
 Ubuntu 16.04 with VNC streamed to HTML5 in browser
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Open your favorite browser and enter http://localhost to access the container.
+
+v1.1.2
+
+ * clean and compact Dockerfile
+ * added firefox
+ * added grive (linux client for Google Drive, use "grive -a" to configure from terminal)
+ * added KeePassX
 
